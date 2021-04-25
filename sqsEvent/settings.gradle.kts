@@ -1,2 +1,1 @@
-rootProject.name = "sqsEvent"
-
+rootProject.name = "sqsevent"
